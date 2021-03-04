@@ -6,4 +6,6 @@ Hence 1 CANDYMAN: 0.0002 DOGE
 ~Hence: Share your CANDYMAN It won't make you loss much~
 ```
 
+__NOTE:__ *You cannot buy candyman from admins, trade on our official group by people2people only*
+
 COPYRIGHT: CandyMan Toke.
