@@ -1,2 +1,2 @@
 # CandyManInfo
-Hello, and welcome here :shit:
+Hello, and welcome here :+1:
