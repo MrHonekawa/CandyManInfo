@@ -15,6 +15,6 @@ If 100 -
 That's how we calculate Cashback!
 ```
 
-__NOTE__*As per the time period given it will be given. Burning is not available everytime.*
+__NOTE__ *As per the time period given it will be given. Burning is not available everytime.*
 
 COPYRIGHT: CandyMan Toke.
